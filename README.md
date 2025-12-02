@@ -6,35 +6,38 @@ Last updated: 12/1/2025
 
 USATT Performance Analyzer does not collect, store, transmit, or share any personal data.
 
-Information Handling
+Information Handling:
 
-The extension analyzes a CSV file that the user manually uploads.
+  The extension analyzes a CSV file that the user manually uploads.
 
-All processing happens entirely on the user’s device.
+  All processing happens entirely on the user’s device.
 
-The CSV data and computed analytics are stored locally using chrome.storage.local solely to allow the user’s results to persist across page reloads.
+  The CSV data and computed analytics are stored locally using chrome.storage.local solely to allow the user’s results to persist across page reloads.
 
-No data is transmitted externally or sent to any server.
+  No data is transmitted externally or sent to any server.
+
 
 No Data Collection
 
 The extension does not:
 
-Collect personal information
+  Collect personal information
 
-Track browsing activity
+  Track browsing activity
 
-Send analytics or usage data
+  Send analytics or usage data
 
-Access or modify any external websites
+  Access or modify any external websites
 
-Communicate with external servers
+  Communicate with external servers
 
-Third Parties
 
-This extension does not share data with any third party.
+Third Parties:
 
-Contact
+  This extension does not share data with any third party.
+  
+
+Contact:
 
 If you have any questions, contact:
 mg.michaelguo@gmail.com
